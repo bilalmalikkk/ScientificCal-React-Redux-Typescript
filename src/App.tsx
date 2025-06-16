@@ -7,7 +7,7 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <h1>React + TypeScript Scientific Calculator</h1>
+        
         <Dashboard />
       </div>
     </Provider>
